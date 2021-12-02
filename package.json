@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "better-sqlite3": "^7.4.3",
-    "sourcecred": "^0.9.1"
+    "sourcecred": "^0.10.2"
   },
   "scripts": {
     "clean": "rimraf cache site",
