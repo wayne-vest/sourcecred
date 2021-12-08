@@ -1,1 +1,7 @@
-{ "repositories": ["wayne-vest/sourcecred", "weinvest-money/docs"] }
+{
+  "repositories": [
+    "weinvestmoney/whitepaper",
+    "weinvestmoney/docs",
+    "weinvestmoney/cross-chain-bridge"
+  ]
+}
